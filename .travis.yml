@@ -4,9 +4,12 @@ dist: trusty
 mono: none
 dotnet: 2.0.0
 script: dotnet restore 
+
 deploy:
 provider: heroku
 api_key: deploy:
 provider: heroku
 api_key: 97477016-6d55-4cc6-aacb-57249f157843
-run: "rake db:migrate" 
+run: 
+-"rake db:migrate"
+-"rake cleanup" 
