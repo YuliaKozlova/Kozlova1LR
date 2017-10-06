@@ -1,0 +1,12 @@
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Kozlova1LR
+--content-root=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\About.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\Contact.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\Error.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\Index.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\_Layout.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\_ViewImports.cshtml
+--file=C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\Pages\_ViewStart.cshtml

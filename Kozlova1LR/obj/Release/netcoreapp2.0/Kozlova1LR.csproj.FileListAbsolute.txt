@@ -1,0 +1,11 @@
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\bin\Release\netcoreapp2.0\Kozlova1LR.deps.json
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\bin\Release\netcoreapp2.0\Kozlova1LR.runtimeconfig.json
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\bin\Release\netcoreapp2.0\Kozlova1LR.runtimeconfig.dev.json
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\bin\Release\netcoreapp2.0\Kozlova1LR.dll
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\bin\Release\netcoreapp2.0\Kozlova1LR.pdb
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.csprojResolveAssemblyReference.cache
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.csproj.CoreCompileInputs.cache
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.AssemblyInfoInputs.cache
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.AssemblyInfo.cs
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.dll
+C:\Users\Kozlova.YA\Documents\GitHub\Kozlova1LR\Kozlova1LR\obj\Release\netcoreapp2.0\Kozlova1LR.pdb
