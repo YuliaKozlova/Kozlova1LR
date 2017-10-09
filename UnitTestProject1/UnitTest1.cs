@@ -11,16 +11,16 @@ namespace UnitTestProject1
         {
 
     
-            // исходные данные
+            // arrange
             int a = 3;
             int b = 5;
             int expected = 15;
 
-            // получение значения с помощью тестируемого метода
+            // act
             Umnogenie g = new Umnogenie();
             int actual = g.RectangleArea(a, b);
 
-            // сравнение ожидаемого результата с полученным
+            // assert
             Assert.AreEqual(expected, actual);
         }
     }
