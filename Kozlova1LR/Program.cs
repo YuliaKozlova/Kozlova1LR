@@ -22,4 +22,15 @@ namespace Kozlova1LR
                 .UseStartup<Startup>()
                 .Build();
     }
+    
+    
+
+     public class Umnogenie
+        {
+           public int RectangleArea(int a, int b)
+            {
+               return a * b;
+            }
+        }
 }
+
