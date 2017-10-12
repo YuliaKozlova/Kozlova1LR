@@ -15,3 +15,8 @@ jobs:
     script: "./test.sh"
   - stage: deploy
     script: skip
+deploy:
+  provider: azure_web_apps
+  username: Julikozlowa1@gmail.com     
+  password: secret_password
+  site: http://kozlova1lr20171006024435.azurewebsites.net

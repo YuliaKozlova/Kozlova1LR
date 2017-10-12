@@ -9,8 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-
-    
+               
             // arrange
             int a = 3;
             int b = 5;
